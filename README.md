@@ -13,7 +13,7 @@
 
 - 📝 Soon, I hope to create my own website where I can blog about my university journey!
 
-- 💬 Ask me about my past experience at coding camps such as **Google CSSI** and **volunteer work**!
+- 💬 Ask me about my past experience at coding camps such as **Google CSSI** and my **volunteer work**!
 
 - 📫 You can reach me on my **LinkedIn!** Link is below.
 
