@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.JS, data structures & Java!**
 
-- 👯 I’m looking to collaborate on **any project that creates a positive impact on the world :)**
+- 👯‍♀️ I’m looking to collaborate on **any project that creates a positive impact on the world :)**
 
 - 👩🏻‍💻 I’m looking forward to **exploring the different roles in tech**
 
