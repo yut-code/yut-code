@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on **a membership platform with PTC!**
 
-- 🌱 I’m currently learning **React.JS, Java and data structures!**
+- 🌱 I’m currently learning **React.JS, data structures & Java!**
 
 - 👯 I’m looking to collaborate on **any project that creates a positive impact on the world :)**
 
-- 🤝 I’m looking for help with **exploring the different roles in tech**
+- 🤝 I’m looking forward to **exploring the different roles in tech**
 
-- 👨‍💻 All of my projects are available at [google.com](google.com)
+- 👨‍💻 All of my projects are available here or on my <a href="https://devpost.com/yut-code?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">devpost<a>!
 
-- 📝 I regularly write articles on [google.com](google.com)
+- 📝 Soon, I hope to create my own website where I can blog about my university journey!
 
-- 💬 Ask me about **my past experience at coding camps such as Google CSSI and**
+- 💬 Ask me about my past experience at coding camps such as **Google CSSI** and **volunteer work**!
 
-- 📫 How to reach me **yu-teresa on LinkedIn!**
+- 📫 You can reach me on my **LinkedIn!** Link is below.
 
 - ⚡ Fun fact **I love to collect skincare and perfumes!**
 
