@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Teresa!</h1>
 <h3 align="center">Industrial/Management Engineering Student @ UWaterloo</h3>
 
-- 🔭 I’m currently working on **a membership platform with PTC!**
+- 🔭 I’m currently working on **a hackathon with PTC!**
 
 - 🌱 I’m currently learning **React.JS, data structures & Java!**
 
