@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **a hackathon with PTC!**
 
-- 🌱 I’m currently learning **React.JS, data structures & Java!**
+- 🌱 I’m currently learning **React.JS & Java!**
 
 - 👯‍♀️ I’m looking to collaborate on **any project that creates a positive impact on the world :)**
 
-- 👩🏻‍💻 I’m looking forward to **exploring the different roles in tech**
+- 👩🏻‍💻 I’m looking forward to **exploring the different roles in tech.**
 
 - 💻 All of my projects are available here or on my <a href="https://devpost.com/yut-code?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">devpost<a>!
 
