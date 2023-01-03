@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Teresa!</h1>
+<h1 align="center">Hi 👋, I'm Teresa! (she/her)</h1>
 <h3 align="center">Industrial/Management Engineering Student @ UWaterloo</h3>
 
 - 🔭 I’m currently working on **a hackathon with PTC!**
