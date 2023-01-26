@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a hackathon with PTC!**
 
-- 🌱 I’m currently learning **React.JS & Java!**
+- 🌱 I’m currently learning **React.JS!**
 
 - 👩🏻‍💻 I’m looking forward to **exploring the different roles in tech.**
 
