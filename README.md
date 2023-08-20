@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teresa! (she/her)</h1>
-<h3 align="center">Industrial/Management Engineering Student @ UWaterloo</h3>
+<h3 align="center">2A Industrial/Management Engineering Student @ UWaterloo</h3>
 
-- 🔭 I’m currently working on **a hackathon with PTC!**
+[//] - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **React.JS!**
+- 🌱 I’m currently learning **Swift & React!**
 
 - 👩🏻‍💻 I’m looking forward to **exploring the different roles in tech.**
 
@@ -11,7 +11,7 @@
 
 - 📝 In the future, I hope to create my own website where I can blog about my university journey! 
 
-- 💬 Ask me about my past experience at coding camps such as **Google CSSI** and my **volunteer work**!
+- 💬 Ask me about my past experience at coding camps like **Kode With Klossy, Google CSSI, Girls Who Code** or my **volunteer work**!
 
 - 📫 You can reach me on my **LinkedIn!** Link is below.
 
