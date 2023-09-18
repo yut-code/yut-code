@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Teresa! (she/her)</h1>
 <h3 align="center">2A Industrial/Management Engineering Student @ UWaterloo</h3>
 
-- 🌱 I’m currently learning **Swift & React!**
+- 🌱 I’m currently learning **DSA & R!**
 
-- 👩🏻‍💻 I’m looking forward to **exploring the different roles in tech.**
+- 👩🏻‍💻 I’m looking forward to **exploring the different dev roles in tech.**
 
 - 💻 All of my projects are available here or on my <a href="https://devpost.com/yut-code?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">devpost<a>!
 
-- 📝 In the future, I hope to create my own website where I can blog about my university journey! 
+- 📝 In the future, I hope to learn more about app development and AI! 
 
 - 💬 Ask me about my past experience at coding camps like **Kode With Klossy, Google CSSI, Girls Who Code** or my **volunteer work**!
 
-- 📫 You can reach me on my **LinkedIn!** Link is below.
+- 📫 You can reach me through **email** or my **LinkedIn!** Link is below.
 
-- 🛍️ Fun fact **I love to collect skincare and perfumes!**
+- 🥊 Fun fact **I'm learning how to box**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
