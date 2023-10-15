@@ -27,6 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yut-code&show_icons=true&theme=radical&locale=en&layout=compact" alt="yut-code" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yut-code&show_icons=true&text_color=a600ff&hide_border=true&locale=en" alt="yut-code" /></p>
+
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yut-code&" alt="yut-code" /></p>
 
