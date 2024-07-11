@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teresa! (she/her)</h1>
-<h3 align="center">2A Industrial/Management Engineering Student @ UWaterloo</h3>
+<h3 align="center">Computer Engineering Student @ UWaterloo</h3>
 
 - 🌱 At school, I’m currently learning **DSA & R!**
 
-- 🌱 Outside of school, this term, I’m learning **React.JS!**
+- 🌱 Outside of school, this term, I’m learning **!**
 
 - 👩🏻‍💻 I’m looking forward to **exploring the different dev roles in tech.**
 
