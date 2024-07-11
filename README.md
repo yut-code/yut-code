@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Teresa! (she/her)</h1>
 <h3 align="center">Computer Engineering Student @ UWaterloo</h3>
 
-- 🌱 At school, I’m currently learning **DSA & R!**
+- 🌱 At school, I recently transferred from Industrial Engineering to Computer Engineering.
 
-- 🌱 Outside of school, this term, I’m learning **!**
+- 🌱 Outside of school, this term, I’m learning **DSA.**
 
 - 👩🏻‍💻 I’m looking forward to **exploring the different dev roles in tech.**
 
