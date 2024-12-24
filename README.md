@@ -5,11 +5,9 @@
 
 - 🌱 Outside of school, this term, I’m learning **DSA.**
 
-- 👩🏻‍💻 I’m looking forward to **exploring the different dev roles in tech.**
+- 💻 All of my projects are available here (take a look at my pins!) or on my <a href="https://devpost.com/yut-code?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">devpost<a>!
 
-- 💻 All of my projects are available here or on my <a href="https://devpost.com/yut-code?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">devpost<a>!
-
-- 📝 In the future, I hope to learn more about app development and AI! 
+- 📝 In the future, I hope to learn more about back-end development and AI! 
 
 - 💬 Ask me about my past experience at coding camps like **Kode With Klossy, Google CSSI, Girls Who Code** or my **volunteer work**!
 
