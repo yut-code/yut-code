@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Teresa! (she/her)</h1>
 <h3 align="center">Computer Engineering Student @ UWaterloo</h3>
 
-- 🌱 At school, I recently transferred from Industrial Engineering to Computer Engineering.
+- 🌱 I'm an incoming software developer intern @ Sony Playstation.
 
-- 🌱 Outside of school, this term, I’m learning **DSA.**
+- 🌱 This term, I’m learning **Computer Architecture, RISC-V Assembly and DSA.**
 
 - 💻 All of my projects are available here (take a look at my pins!) or on my <a href="https://devpost.com/yut-code?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">devpost<a>!
-
-- 📝 In the future, I hope to learn more about back-end development and AI! 
 
 - 💬 Ask me about my past experience at coding camps like **Kode With Klossy, Google CSSI, Girls Who Code** or my **volunteer work**!
 
