@@ -4,7 +4,7 @@
 I'm a sophomore at the University of Waterloo in Canada studying Computer Engineering. 
 
 
-Feel free to connect with me on my LinkedIn[https://linkedin.com/in/yu-teresa]!
+Feel free to connect with me on my [LinkedIn](https://linkedin.com/in/yu-teresa)!
 
 
 
