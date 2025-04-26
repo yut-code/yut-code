@@ -1,31 +1,72 @@
 <h1 align="center">Hi 👋, I'm Teresa! (she/her)</h1>
 <h3 align="center">Computer Engineering Student @ UWaterloo</h3>
 
-- 🌱 I'm an incoming software developer intern @ Sony Playstation.
+I'm a sophomore at the University of Waterloo in Canada studying Computer Engineering. 
 
-- 🌱 This term, I’m learning **Computer Architecture, RISC-V Assembly and DSA.**
 
-- 💻 All of my projects are available here (take a look at my pins!) or on my <a href="https://devpost.com/yut-code?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">devpost<a>!
+Feel free to connect with me on my LinkedIn[https://linkedin.com/in/yu-teresa]!
 
-- 💬 Ask me about my past experience at coding camps like **Kode With Klossy, Google CSSI, Girls Who Code** or my **volunteer work**!
-
-- 📫 You can reach me through **email** or my **LinkedIn!** Link is below.
-
-- 🥊 Fun fact **I'm learning how to box.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yu-teresa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yu-teresa" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yut-code&show_icons=true&title_color=9b00ff&text_color=9b00ff&hide_border=true&locale=en" alt="yut-code" /></p>
+![JavaScript](https://img.shields.io/badge/JavaScript-06062C?style=flat-square&logo=JavaScript)
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![HTML](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5)
+
+![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=blue)
+
+![Swift](https://img.shields.io/badge/swift-06062C?style=flat-square&logo=swift)
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white)
+
+![RiscV](https://img.shields.io/badge/riscv-black?style=flat-square&logo=riscv)
+
+
+
+![React](https://img.shields.io/badge/React-white?style=flat-square&logo=React)
+
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat-square&logo=Bootstrap)
+
+![FastAPI](https://img.shields.io/badge/fastapi-black?style=flat-square&logo=fastapi)
+
+![Docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
+
+![K8s](https://img.shields.io/badge/kubernetes-black?style=flat-square&logo=kubernetes)
+
+![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas)
+
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss)
+
+![Bulma](https://img.shields.io/badge/bulma-white?style=flat-square&logo=bulma)
+
+![Selenium](https://img.shields.io/badge/selenium-06062C?style=flat-square&logo=selenium)
+
+  
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+![Figma](https://img.shields.io/badge/-Figma-white?style=flat-square&logo=Figma)
+
+
+
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yut-code&" alt="yut-code" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yut-code&show_icons=true&title_color=9b00ff&text_color=9b00ff&hide_border=true&locale=en" alt="yut-code" /></p>
 
 ### Hi there 👋
 
