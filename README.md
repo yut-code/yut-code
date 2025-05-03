@@ -10,28 +10,28 @@ Feel free to connect with me on my [LinkedIn](https://linkedin.com/in/yu-teresa)
 
 ## Languages:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![HTML](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=CSS3&logoColor=blue)
-![Swift](https://img.shields.io/badge/swift-06062C?style=flat-square&logo=swift)
+![Swift](https://img.shields.io/badge/Swift-06062C?style=flat-square&logo=swift)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white)
-![RiscV](https://img.shields.io/badge/riscv-black?style=flat-square&logo=riscv)
+![RiscV](https://img.shields.io/badge/RISCV-black?style=flat-square&logo=riscv)
 
 ## Frameworks and Technologies:
-![React](https://img.shields.io/badge/React-white?style=flat-square&logo=React)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat-square&logo=Bootstrap)
 ![FastAPI](https://img.shields.io/badge/fastapi-black?style=flat-square&logo=fastapi)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat-square&logo=Bootstrap)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![React](https://img.shields.io/badge/React-white?style=flat-square&logo=React)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![K8s](https://img.shields.io/badge/kubernetes-black?style=flat-square&logo=kubernetes)
 ![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss)
-![Bulma](https://img.shields.io/badge/bulma-white?style=flat-square&logo=bulma)
-![Selenium](https://img.shields.io/badge/selenium-06062C?style=flat-square&logo=selenium)
+![Bulma](https://img.shields.io/badge/Bulma-white?style=flat-square&logo=bulma)
+![Selenium](https://img.shields.io/badge/Selenium-06062C?style=flat-square&logo=selenium)
 ![Figma](https://img.shields.io/badge/-Figma-white?style=flat-square&logo=Figma)
 
 ## VCS
